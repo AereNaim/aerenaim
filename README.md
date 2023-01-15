@@ -4,7 +4,7 @@ Hi, I'm a Software Developer
 *   Front End: Javascript / Typescript, NextJS / React
 *   Back End: C# .NET (vCore v5+), PHP/Laravel, NodeJS
 - 🌱 I’m currently learning Rust
-![Aere Naim](https://anw.vercel.app/img/aere.jpg)
+![Aere Naim](https://github.com/AereNaim/aerenaim/blob/main/BannerTwitch.jpg)
 
 <!--
 **AereNaim/aerenaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
