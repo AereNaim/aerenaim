@@ -1,11 +1,11 @@
 Hi, I'm a Software Developer
 ============================
 
-Front End: 
+* Front End: 
 - [x] Javascript
 - [x] Typescript
 - [x] NextJS / React
-Back End: 
+* Back End: 
 - [x] C# .NET (vCore v5+)
 - [x] PHP/Laravel
 - [x] NodeJS
