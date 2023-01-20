@@ -1,14 +1,11 @@
 Hi, I'm a Software Developer
 ============================
+| * Front End:          | * Back End:               |
+| --------------------- | ------------------------- |
+| - [x] Javascript      | - [x] C# .NET (vCore v5+) |
+| - [x] Typescript      | - [x] PHP/Laravel         |
+| - [x] NextJS / React  | - [x] NodeJS              |
 
-* Front End: 
-- [x] Javascript
-- [x] Typescript
-- [x] NextJS / React
-* Back End: 
-- [x] C# .NET (vCore v5+)
-- [x] PHP/Laravel
-- [x] NodeJS
 - 🌱 I’m currently learning Rust
 * * *
 ![Aere Naim](https://github.com/AereNaim/aerenaim/blob/main/BannerTwitch.jpg)
